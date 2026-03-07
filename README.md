@@ -1,31 +1,31 @@
 
-# 👋 أهلاً بك، أنا farah_developer!
+# 👩‍💻 فرح | Farah
 
-<p align="center">
-  <img src="https://komarev.com" alt="إحصائيات الزوار" />
-</p>
 
-### 👨‍💻 نبذة عني
-- 🔭 أنا أعمل حالياً على **[اسم مشروعك]**.
-- 🌱 أتعلم حالياً **[لغة أو تقنية جديدة]**.
-- 💬 اسألني عن **[مجال خبرتك]**.
-- 📫 كيف تصل إلي: **[ايميلك أو حساباتك]**.
+### ✨ طالبة هندسة برمجية | أرى للبرمجة روحاً أخرى
 
-### 🛠 التقنيات والأدوات (Tech Stack)
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+> "لا أكتب أكواداً فقط.. أنا أصوغ الأفكار وأحول التحليلات إلى حلول برمجية" 
+## 🚀 ما أتعلمه حالياً
 
-### 📊 إحصائيات GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app"/>
-</p>
+![C++](https://img.shields.io/badge/-C++-8A2BE2?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-9B30FF?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-AA80FF?style=flat-square&logo=css3&logoColor=white)
 
----
-<p align="center">
-  تم إنشاء هذا البروفايل بكل ❤️ بواسطة [اسمك]
-</p>
+## 🎯 رحلتي التعليمية
+
+```cpp
+// فلسفتي في البرمجة
+class Freida {
+private:
+    string passion = "تحويل الأفكار إلى حلول";
+    string belief = "لا أكتب أكواداً فقط.. أصوغ الأفكار وأحول التحليلات";
+    
+public:
+    void learn() {
+        while(always_curious) {
+            practice();
+            create();
+            inspire();
+        }
+    }
+};
