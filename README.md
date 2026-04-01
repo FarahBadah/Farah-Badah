@@ -15,7 +15,7 @@
 
 ```cpp
 // فلسفتي في البرمجة
-class Freida {
+class Farah {
 private:
     string passion = "تحويل الأفكار إلى حلول";
     string belief = "لا أكتب أكواداً فقط.. أصوغ الأفكار وأحول التحليلات";
