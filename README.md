@@ -46,7 +46,8 @@
  * "أنا لا أكتب أكواداً فقط.. أنا أصوغ الأفكار وأحول التحليلات إلى حلول."
  */
 
-while (always_curious) {
+while (always_curious)
+{
     practice();
     create();
     inspire();
