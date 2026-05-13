@@ -40,17 +40,15 @@
 | 🔵 | **05: Algorithms Level 2** | **قيد الدراسة (Current Focus)** |
 
 ---
-
 ### 📊 إحصائيات GitHub (My Stats)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Farah-Badah&show_icons=true&theme=radical&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farah-Badah&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarahBadah&show_icons=true&theme=radical&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahBadah&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farah-Badah&theme=radical" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FarahBadah&theme=radical" />
 </p>
-
 ---
 
 ### 🧠 فلسفتي البرمجية (My Philosophy)
