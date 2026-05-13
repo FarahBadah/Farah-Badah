@@ -42,8 +42,8 @@
 ---
 ### 📊 إحصائيات GitHub (My Stats)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarahBadah&show_icons=true&theme=radical&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahBadah&layout=compact&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarahBadah&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarahBadah&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
